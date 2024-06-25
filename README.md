@@ -1,7 +1,5 @@
 # Product Mart Server
 
-A full-stack e-commerce platform built with JavaScript. The frontend is developed using React, and the backend utilizes NodeJS, Express, and MongoDB. The project also incorporates Redux for state management and Axios for HTTP requests. Postman is used for testing the endpoints.
-
 ## Project Setup and Installation
 
 Follow these steps to set up and run the project server on your local machine.
