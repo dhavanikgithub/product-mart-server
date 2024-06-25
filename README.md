@@ -11,7 +11,7 @@ Follow these steps to set up and run the project server on your local machine.
 
    Open your terminal (or Git Bash on Windows) and run:
    ```sh
-     git clone https://github.com/dhavanikgithub/product-mart-server.git
+   git clone https://github.com/dhavanikgithub/product-mart-server.git
    ```
 
 2. **Backend Setup**
